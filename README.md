@@ -1,4 +1,4 @@
-# pilih-tahap<
+# pilih-tahap
 
 <html>
 <head>
@@ -32,20 +32,20 @@
     cursor: pointer;
   }
   .button1 {
-    width: 50px;
+    width: 100px;
   }
   .button2 {
     background-color: orange;
-    width: 50px;
+    width: 100px;
   }
   .button3 {
     background-color: yellow;
     color: black;
-    width: 50px;
+    width: 100px;
   }
   .button4 {
     background-color: green;
-    width: 50px;
+    width: 100px;
   }
   </style>
 </head>
